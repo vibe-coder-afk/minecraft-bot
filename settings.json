@@ -1,6 +1,6 @@
 {
-  "host": "localhost",
-  "port": 25565,
-  "username": "AFK_Bot",
+  "host": "blackedboat.aternos.me",
+  "port": 46038,
+  "username": "BlackedBoat_Bot",
   "auth": "offline"
 }
